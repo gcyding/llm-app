@@ -1,2 +1,35 @@
-*rag/workflow/agent
-workflow注重稳定高效，agent追求灵活创新 https://mp.weixin.qq.com/s/GCifbH9wGdPysu1z-n3KDA
+# Rag/Workflow/Agent
+## rag
+
+从外部知识库中检索消息供给大模型，解决大模型知识不准确或者过时的问题
+
+## workflow
+
+注重稳定高效
+
+## agent
+
+追求灵活创新
+
+https://mp.weixin.qq.com/s/GCifbH9wGdPysu1z-n3KDA
+
+![alt text](1744443158358.png)
+
+https://blog.csdn.net/duanchuanttao/article/details/145060795
+
+
+# 常用的自动化AI平台
+
+dify
+
+coze
+
+fastgpt
+
+ziper
+
+make
+
+n8n
+
+# MPC
